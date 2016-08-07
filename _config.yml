@@ -3,8 +3,9 @@ title: Will Blog
 SEOTitle: 超亮的博客 | Will Blog
 header-img: img/home-bg.jpg
 email: willpan666@gmail.com
-description: ""
+description: "心路历程"
 keyword: ""
+ 
 url: "http://Willokkkkkk.github.io"              # your host, for absolute URL
 #baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 root: /
@@ -12,8 +13,8 @@ root: /
 
 # SNS settings
 RSS: false
-weibo_username:     Willokkkkkk
-zhihu_username:     潘超亮
+weibo_username:     3960771697
+zhihu_username:     pan-chao-liang
 github_username:    Willokkkkkk
 #twitter_username:  Mars
 facebook_username:  Will
@@ -61,8 +62,8 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Baidu Analytics
 ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: auto
+ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto
 
 
 
@@ -82,19 +83,19 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "百度",
+        href: "http://www.baidu.com"
     },{
-        title: "Foo",
-        href: "#"
+        title: "优酷",
+        href: "http://www.youku.com"
     },{
-        title: "Bar",
-        href: "#"
+        title: "acfun",
+        href: "http://www.acfun.com"
     },{
-        title: "Example Friends",
-        href: "#"
+        title: "github",
+        href: "http://www.github.com"
     },{
-        title: "It helps SEO",
-        href: "#"
+        title: "java1234",
+        href: "http://www.java1234.com"
     }
 ]
