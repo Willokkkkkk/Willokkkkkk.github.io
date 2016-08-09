@@ -26,7 +26,7 @@ tags:
  - 强调  ：\*内容* 或 \**内容**
  - 图片： \!\[]("url")
 
-![]("_posts/post-2016-01-05-1.jpg")
+![](https://willokkkkkk.github.io/img/post-2016-01-05-1.jpg)
 下划线
 =============
 
